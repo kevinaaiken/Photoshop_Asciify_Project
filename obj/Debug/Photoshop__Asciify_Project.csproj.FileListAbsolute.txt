@@ -1,0 +1,10 @@
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.csprojAssemblyReference.cache
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.Form1.resources
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.Properties.Resources.resources
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.csproj.GenerateResource.cache
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.csproj.CoreCompileInputs.cache
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\bin\Debug\Photoshop__Asciify_Project.exe.config
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\bin\Debug\Photoshop__Asciify_Project.exe
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\bin\Debug\Photoshop__Asciify_Project.pdb
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.exe
+C:\Users\CCA030\source\kaa\Photoshop__Asciify_Project\obj\Debug\Photoshop__Asciify_Project.pdb
